@@ -103,7 +103,7 @@ class _AuthScreenState extends State<AuthScreen> {
                 margin: const EdgeInsets.all(20),
                 child: SingleChildScrollView(
                   child: Padding(
-                    padding: const EdgeInsets.all(15),
+                    padding: const EdgeInsets.all(16),
                     child: Form(
                       key: _form,
                       child: Column(
